@@ -66,5 +66,5 @@ Satisfaction Trends:
 Employees with lower satisfaction levels, poor work-life balance, or low performance scores are more likely to leave.
 Departments with higher satisfaction rates see lower attrition rates.
 Future Improvements:
-Enhance the dataset with more features like salary, commute distance, or management feedback.
+I will enhance the dataset with more features like salary, commute distance, or management feedback.
 Include predictive modeling to forecast attrition and identify at-risk employees.
